@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sajid Ansari - Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="brand-title">Sajid Ansari</div>
+            <a href="#" class="toggle-button">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </a>
+            <div class="navbar-links">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="hero">
+            <div class="hero-text">
+                <h1>Hi, I'm Sajid Ansari</h1>
+                <p>A passionate web developer in training.</p>
+            </div>
+        </section>
+
+        <section id="about">
+            <h2>About Me</h2>
+            <div class="about-content">
+                <p>
+                    I am a dedicated and passionate student pursuing my degree at <strong>Ramchandra Chandravansi Institute of Technology</strong>. I have a keen interest in web development and I am constantly learning new technologies to build amazing web applications. My goal is to become a skilled full-stack developer.
+                </p>
+            </div>
+        </section>
+
+        <section id="skills">
+            <h2>My Skills</h2>
+            <div class="skills-container">
+                <div class="skill">
+                    <p>HTML</p>
+                    <div class="progress-bar">
+                        <div class="progress" style="width: 90%;">90%</div>
+                    </div>
+                </div>
+                <div class="skill">
+                    <p>CSS</p>
+                    <div class="progress-bar">
+                        <div class="progress" style="width: 85%;">85%</div>
+                    </div>
+                </div>
+                <div class="skill">
+                    <p>JavaScript (Basic)</p>
+                    <div class="progress-bar">
+                        <div class="progress" style="width: 70%;">70%</div>
+                    </div>
+                </div>
+                <div class="skill">
+                    <p>Python</p>
+                    <div class="progress-bar">
+                        <div class="progress" style="width: 50%;">50%</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>You can reach out to me via email:</p>
+            <a href="mailto:ansarisajid9732@gmail.com" class="contact-btn">Email Me</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>Copyright &copy; 2025 Sajid Ansari. All Rights Reserved.</p>
+    </footer>
+
+    <button class="chatbot-toggler">💬</button>
+    <div class="chatbot-container">
+        <div class="chatbot-header">
+            <h2>AI Assistant</h2>
+        </div>
+        <ul class="chatbox">
+            <li class="chat-message bot">
+                <p>Hi there! How can I help you today regarding Sajid?</p>
+            </li>
+        </ul>
+        <div class="chat-input-area">
+            <textarea id="chat-input" placeholder="Ask about Sajid..." required></textarea>
+            <button id="chat-send-btn">➤</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
