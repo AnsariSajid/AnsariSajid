@@ -10,13 +10,14 @@
 
 ## 🚀 Tech Stack
 - **Languages**: HTML, CSS, JavaScript, Python, Java
-- **Frameworks**: Bootstrap (learning React soon)
+- **Frameworks**: Bootstrap, react(learning)
 - **Tools**: VS Code, Git, GitHub, Canva, Figma, 
 
 ---
 
 ## 📫 Let's Connect
-- 🔗 [LinkedIn] (https://www.linkedin.com/in/sajidansari-dev) 
+- 🔗 [LinkedIn] (https://www.linkedin.com/in/sajidansari-dev)
+- 🔗 [Codechef] (https://www.codechef.com/users/mdsajid_001)
 - ✉️ Email: ansarisajid9732@gmail.com
 
 ---
