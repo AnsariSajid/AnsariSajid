@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a B.Tech CSE student from Ramachandra Chandravansi Institute of Technology<br>💻 I love working on web development, open source, and creative design.<br>🌱 Currently learning: JavaScript, Python, Git & GitHub<br>🔭 Exploring: AI tools, full-stack development, cloud computing<br>🤝 Looking to collaborate on: Real-world projects, internships, and open-source contributions
+🎓 I'm a B.Tech CSE student from Ramachandra Chandravansi Institute of Technology.<br>💻 I love working on web development, open source, and creative design.<br>🌱 Currently learning: JavaScript, Python, Git & GitHub.<br>🔭 Exploring: AI tools, full-stack development, cloud computing.<br>🤝 Looking to collaborate on: Real-world projects, internships, and open-source contributions.
 
 
 ## 🌐 Socials:
